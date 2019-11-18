@@ -1,0 +1,7 @@
+name: monopoly
+files:
+    required:
+        - spiral.py
+        - student.py
+        - monopoly.py
+        - monopoly_realistic.py

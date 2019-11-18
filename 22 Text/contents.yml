@@ -1,0 +1,12 @@
+Introduction: /text
+"Day 1: Text statistics":
+    Learn about functions: /text/functions
+    Learn about strings: /text/strings
+    Calculate basic statistics: /text/statistics
+"Day 2: Text cleanup":
+    Analyze word use: /text/words
+    Reformatting Text: /text/reformatting
+"Day 3: Sentiment analysis":
+    Learn about files: /text/files
+    Sentiment analysis: /text/sentiment
+    Tweet statistics: /text/tweets
