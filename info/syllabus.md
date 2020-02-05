@@ -1,6 +1,6 @@
 # Scientific Programming 1<br><small>Syllabus</small>
 
-University of Amsterdam / Programming Lab / 50621SCP3Y / Version 4.0-beta
+University of Amsterdam / Programming Lab / 50621SCP3Y / Version 4.0
 
 Welcome to this programming course! In the weeks ahead, you'll use the Python programming language while learning to solve scientific problems from several fields of science. This course is intended for students who have no experience in programming at all. It comprises four modules, wherein you learn about the Python language, but foremost about strategies you can use to solve complex computational problems.
 
@@ -86,10 +86,10 @@ Deadlines for period 1:
 
 Deadlines for period 2:
 
-* Level 1: Wednesday, November 6
-* Level 2: Tuesday, September 19
-* Level 3: Monday, December 2
-* Level 4: Friday, December 13
+* Level 1: Wednesday, 6 November
+* Level 2: Tuesday,  19 September
+* Level 3: Monday, 2 December
+* Level 4: Friday, 13 December
 
 ### Exam
 
