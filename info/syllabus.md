@@ -93,7 +93,7 @@ Deadlines for period 2:
 
 ### Exam
 
-There are two opportunities to take the exam in semester 1, which according to the official schedule have been planned on:
+There are multiple opportunities to take the exam.
 
 **Semester 1**
 
