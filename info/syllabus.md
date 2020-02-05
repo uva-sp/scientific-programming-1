@@ -45,7 +45,7 @@ In this course you'll mostly work independently and ask for help online. We have
 
 Besides Stack Overflow, you can come to the programming lab at the following time. Our teacher(s) will be ready to answer questions, help you find resources for programming, and help thinking about the problems at hand.
 
-> The lab is open for you on **Tuesdays 15:00--17:00**. You can find us in room **A1.22** at the Science Park 904 building. When coming to the lab for the first time, please find your teacher and introduce yourself! That way it's easier to ask questions when needed.
+> The lab is open for you on **Tuesdays 15:00--17:00 in room A1.24 and Fridays 15:00--17:00 in room A1.22**. These rooms are at the Science Park 904 building. When coming to the lab for the first time, please find your teacher and introduce yourself! That way it's easier to ask questions when needed.
 
 ## Passing the course
 
@@ -56,28 +56,54 @@ The course's final result will be "pass" or "fail", which means that **no grades
 
 ### Coursework
 
-Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level. Deadlines for each level are:
+Sufficient coursework means submitting a working solution to each problem from at least four modules of your own choosing, keeping in mind that you need to finish one module per level. 
 
-<!-- - Level 1: Wednesday, 11 September
+You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+
+### Deadlines
+
+Deadlines for each level are listed below. Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we will consider your proposal.
+
+**Semester 2**
+
+| Finish course in: | 4 weeks     | 8 weeks     | 16 weeks    |  
+| ----------------- | ----------- | ----------- | ----------- |
+| Level 1           | Fri, 7 Feb  | Wed, 12 Feb | Fri, 21 Feb |
+| Level 2           | Thu, 13 Feb | Tue 24 Feb  | Fri 13 Mar  |
+| Level 3           | Wed, 19 Feb | Mon, 9 Mar  | Fri, 17 Apr |
+| Level 4           | Tue, 25 Feb | Fri, 20 Mar | Fri, 15 May |
+
+Note: if you would also like to take Scientific Programming 2, you will need to do the 8-week schedule. If you'd like to take Data Processing as well, you will need to do the 4-week schedule, in order to leave enough time!
+
+**Semester 1**
+
+Deadlines for period 1:
+
+- Level 1: Wednesday, 11 September
 - Level 2: Tuesday, 24 September
 - Level 3: Monday, 7 October
-- Level 4: Friday, 18 October -->
+- Level 4: Friday, 18 October
+
+Deadlines for period 2:
 
 * Level 1: Wednesday, November 6
 * Level 2: Tuesday, September 19
 * Level 3: Monday, December 2
 * Level 4: Friday, December 13
 
-Only by agreement in advance is it possible to extend these deadlines. Send an e-mail detailing your plans to the course staff at <scientific@mprog.nl> and we'll consider your proposal.
-
-You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
-
 ### Exam
 
-There are two opportunities to take the exam in semester 1, which according to the [official schedule](https://datanose.nl/#course[81337]) have been planned on:
+There are two opportunities to take the exam in semester 1, which according to the official schedule have been planned on:
+
+**Semester 1**
 
 - Tuesday, 22 October
 - Tuesday, 17 December
+
+**Semester 2**
+
+- Monday, 2 March
+- Monday, 30 March
 
 The second exam can be seen as a "resit" to the first. However, it is not necessary to take the first exam to be allowed into the second.
 
