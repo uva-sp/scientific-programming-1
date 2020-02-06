@@ -53,7 +53,7 @@
 		<div class="card">
 			<img src="/course/22%20Text/logo.png" class="card-img-top" alt="...">
 			<div class="card-body">
-				<h5 class="card-title">Text processing <span class="badge badge-primary">BETA</span></h5>
+				<h5 class="card-title">Text processing</h5>
 				<h6 class="card-subtitle mb-2 text-muted">Level 2</h6>
 				<p class="card-text">
 					<a href="/text" class="card-link">Analyze text sources using text processing.</a>
