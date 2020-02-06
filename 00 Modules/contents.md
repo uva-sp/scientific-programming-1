@@ -1,10 +1,10 @@
 <div markdown="0">
 
-	<div class="card-group">
+	<div class="card-group mb-3">
 		<div class="card">
 			<h2 class="card-title m-3">Level 1</h2>
 		</div>	
-		<div class="card text-white bg-secondary mb-3">
+		<div class="card text-white bg-secondary">
 			<div class="card-body">
 				<p class="card-text">
 					Note: before you begin, you'll need <a href="/installing" class="card-link text-white" style="text-decoration:underline;">Python on your computer!</a>
@@ -14,7 +14,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/11%20Algorithms/logo.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Algorithms</h5>
@@ -24,7 +24,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/10%20Numbers/logo.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Number theory</h5>
@@ -36,11 +36,11 @@
 		</div>
 	</div>
 
-	<div class="card-group">
+	<div class="card-group mb-3">
 		<div class="card">
 			<h2 class="card-title m-3">Level 2</h2>
 		</div>	
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/21%20Integrals/logo.png" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Integrals</h5>
@@ -50,7 +50,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/22%20Text/logo.png" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Text processing <span class="badge badge-primary">BETA</span></h5>
@@ -60,16 +60,16 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 		</div>
 			
 	</div>
 
-	<div class="card-group">
+	<div class="card-group mb-3">
 		<div class="card">
 			<h2 class="card-title m-3">Level 3</h2>
 		</div>	
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/30%20Movement/30%20Freefall/EarthHole.png" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Movement</h5>
@@ -79,7 +79,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/31%20Monopoly/05%20Introduction/MonopolyBordInternationaal.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Monopoly</h5>
@@ -89,7 +89,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/32%20Population/20%20Rabbits/konijnen.gif" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Population dynamics <span class="badge badge-primary">BETA</span></h5>
@@ -101,11 +101,11 @@
 		</div>
 	</div>
 
-	<div class="card-group">
+	<div class="card-group mb-3">
 		<div class="card">
 			<h2 class="card-title m-3">Level 4</h2>
 		</div>	
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/40%20Weather/20%20Climate/KaartNederlandKlein.png" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Weather</h5>
@@ -115,7 +115,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 			<img src="/course/41%20Statistics/10%20NormalDistribution/ExampleLengte.png" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title">Statistics <span class="badge badge-primary">BETA</span></h5>
@@ -125,7 +125,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
+		<div class="card">
 		</div>
 		
 	</div>
