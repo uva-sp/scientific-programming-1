@@ -2,7 +2,11 @@
 
 The preceding programs were scripts that were meant to be executed line for line from top to bottom. A sort of step by step guide. Programs get more interesting when we intend to write *exceptions*.
 
+In Dutch, we introduce `if`-statements with a couple of examples:
+
 ![embed](https://player.vimeo.com/video/287244672)
+
+In English, read a bit more about [conditionals](http://greenteapress.com/thinkpython/html/thinkpython006.html) at Think Python.
 
 ## Details
 

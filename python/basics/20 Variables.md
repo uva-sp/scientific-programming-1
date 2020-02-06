@@ -4,8 +4,11 @@ A **value** is one of the core components of any program. In the examples above,
 
 To be able to use results (values) from one calculation in another calculation we have to temporarily store these results. As a solution Python offers you to assign names to values. These name-value pairs are called **variables**. By using the `=` operator we can combine a name and a value, and consequently use that value elsewhere.
 
+In Dutch:
 
 ![embed](https://player.vimeo.com/video/287248523)
+
+In English, read more about [variables and values](http://greenteapress.com/thinkpython/html/thinkpython003.html) at Think Python.
 
 ## Types
 

@@ -1,8 +1,12 @@
 # Lists
 
-A list in Python is a useful way of grouping data so they can be interacted with as a whole. This way calculations can be performed on the entire collection in one go instead of each number individually. This video explains some of a lists simple applications.
+A list in Python is a useful way of grouping data so they can be interacted with as a whole. This way calculations can be performed on the entire collection in one go instead of each number individually.
+
+This video, in Dutch, explains some of a lists simple applications.
 
 ![embed](https://player.vimeo.com/video/287247201)
+
+In English, read about [lists](http://greenteapress.com/thinkpython/html/thinkpython011.html) at Think Python.
 
 ## Reference
 

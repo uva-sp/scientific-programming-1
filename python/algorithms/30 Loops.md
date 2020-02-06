@@ -15,7 +15,11 @@ Aside from that, just as with the `if`-statement, the `for` ends with a `:`, to 
 
 ## Examples of loops
 
+In Dutch:
+
 ![embed](https://vimeo.com/album/5380755/embed)
+
+In English, read more about [iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) at Think Python.
 
 ## Step size of a loop
 
