@@ -1,4 +1,7 @@
 <div markdown="0">
+		<div class="card">
+			<h1>Level 1</h1>
+		</div>	
 		<div class="card-group">
 			<div class="card text-white bg-secondary mb-3">
 				<div class="card-body">
@@ -35,6 +38,9 @@
 		</div>
 
 		<div class="card-group">
+		<div class="card">
+			<h1>Level 2</h1>
+		</div>	
 			<div class="card mb-3">
 				<img src="/course/21%20Integrals/logo.png" class="card-img-top" alt="...">
 				<div class="card-body">
@@ -55,6 +61,9 @@
 					</p>
 				</div>
 			</div>
+			<div class="card mb-3">
+			</div>
+			
 		</div>
 
 		<div class="card-group">
