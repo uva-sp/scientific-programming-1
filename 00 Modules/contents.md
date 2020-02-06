@@ -34,8 +34,6 @@
 				</p>
 			</div>
 		</div>
-		<div class="card mb-3">
-		</div>
 	</div>
 
 	<div class="card-group">
