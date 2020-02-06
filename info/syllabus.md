@@ -15,7 +15,6 @@ If you have practical matters that you would like to discuss, always send an e-m
 ## Getting started
 
 0. Read more of the Syllabus, below
-1. Create a [Stack Overflow](https://stackoverflow.com/c/uva-prog-lab) account for asking questions
 2. [Install](/installing) Python
 3. Go to the [modules page](/modules) and choose a level 1 module to get programming!
 
@@ -39,11 +38,11 @@ When you have finished one modules for each level, you might take up Scientific 
 
 ## Asking questions
 
-In this course you'll mostly work independently and ask for help online. We have created a special "Stack Overflow" section, for which you will be invited as soon as you register on this website.
+In this course you'll mostly work independently and ask for help online. We have created a special "Stack Overflow" section, for which you will be invited as the course starts.
 
 <https://stackoverflow.com/c/uva-prog-lab>
 
-Besides Stack Overflow, you can come to the programming lab at the following time. Our teacher(s) will be ready to answer questions, help you find resources for programming, and help thinking about the problems at hand.
+Besides Stack Overflow, you can come to the programming lab at the following times. Our teacher(s) will be ready to answer questions, help you find resources for programming, and help thinking about the problems at hand.
 
 > The lab is open for you on **Tuesdays 15:00--17:00 in room A1.24 and Fridays 15:00--17:00 in room A1.22**. These rooms are at the Science Park 904 building. When coming to the lab for the first time, please find your teacher and introduce yourself! That way it's easier to ask questions when needed.
 
