@@ -2,7 +2,7 @@
 
 	<div class="card-group">
 		<div class="card">
-			<h1>Level 1</h1>
+			<h1 class="card-title">Level 1</h1>
 		</div>	
 		<div class="card text-white bg-secondary mb-3">
 			<div class="card-body">
