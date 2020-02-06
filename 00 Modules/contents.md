@@ -2,7 +2,7 @@
 
 	<div class="card-group">
 		<div class="card">
-			<h1 class="card-title">Level 1</h1>
+			<h2 class="card-title m-3">Level 1</h2>
 		</div>	
 		<div class="card text-white bg-secondary mb-3">
 			<div class="card-body">
@@ -38,7 +38,7 @@
 
 	<div class="card-group">
 		<div class="card">
-			<h1>Level 2</h1>
+			<h2 class="card-title m-3">Level 2</h2>
 		</div>	
 		<div class="card mb-3">
 			<img src="/course/21%20Integrals/logo.png" class="card-img-top" alt="...">
@@ -66,6 +66,9 @@
 	</div>
 
 	<div class="card-group">
+		<div class="card">
+			<h2 class="card-title m-3">Level 3</h2>
+		</div>	
 		<div class="card mb-3">
 			<img src="/course/30%20Movement/30%20Freefall/EarthHole.png" class="card-img-top" alt="...">
 			<div class="card-body">
@@ -99,6 +102,9 @@
 	</div>
 
 	<div class="card-group">
+		<div class="card">
+			<h2 class="card-title m-3">Level 4</h2>
+		</div>	
 		<div class="card mb-3">
 			<img src="/course/40%20Weather/20%20Climate/KaartNederlandKlein.png" class="card-img-top" alt="...">
 			<div class="card-body">
