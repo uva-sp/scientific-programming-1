@@ -14,7 +14,7 @@
 				</p>
 			</div>
 		</div>
-		<a href="/algorithms" class="card">
+		<div class="card">
 			<img src="/course/11%20Algorithms/logo.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
 				<h5 class="card-title mt-0">Algorithms</h5>
@@ -22,7 +22,7 @@
 					<a href="/algorithms" class="card-link">Draw pyramids and calculate cash change using algorithms.</a>
 				</p>
 			</div>
-		</a>
+		</div>
 		<div class="card">
 			<img src="/course/10%20Numbers/logo.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
