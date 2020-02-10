@@ -13,7 +13,7 @@ Although we want to leave this assignment up to you for as much as possible (the
 	    
 In the description on the definition of [coprimes](https://en.wikipedia.org/wiki/Coprime_integers) on Wikipedia we see there is a way to calculate the chance that *n* random numbers do not share a common divisor.
 
-This chance is: $1/\zeta(n)$$, where $$\zeta(n)$$ is the well-known [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function).
+This chance is: $1$/\zeta(n)$$, where $$\zeta(n)$$ is the well-known [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function).
 
 **Specific case: two numbers (n=2)**:
 

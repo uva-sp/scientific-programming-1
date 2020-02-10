@@ -33,26 +33,35 @@ Given the description and example above, you will need to make sure that each wo
 
 2. Write a function called `cleanup(word)` that cleans a word using the guidelines above. Use methods from Pythons `string` library to do this.
 
-3. Pass all words through the `cleanup` function.
+3. Write a function called `text_to_unique_words(text)` that takes a text as input and outputs a list of unique words.
 
-4. Make sure the words are unique. You will need a variant of the transform strategy:
+    * Pass all words through the `cleanup` function.
+    * To make sure that the words are unique, you will need a variant of the transform strategy:
 
-       unique_words = [...]
-       for each word in words:
-           only append to unique_words if it is not in there yet
-       return all unique_words
+          unique_words = [...]
+            for each word in words:
+              only append to unique_words if it is not in there yet
+          return all unique_words
 
-5. Sort all words and print as specified.
+    * Return a sorted list of unique words. If you want to sort a list you can use the function `sorted()` in python:
+
+          sorted_list = sorted(unsorted_list)
+
+4. print result as specified.
 
 Tip: split up your code into functions (with meaningful names) as much as possible!
 
 
 ## Testing
 
-These are potential test cases:
+First try to think of some testcases yourself. Some interesting examples could be:
 
 - empty input
 - 1-word input
 - multiple-word input
 - words with punctuation
 - words with double blanks / empty words  "word<space><space>huh"
+
+Now with checkpy:
+
+    checkpy list_words

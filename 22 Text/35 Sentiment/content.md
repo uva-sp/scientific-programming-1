@@ -1,6 +1,6 @@
 # Sentiment analysis
 
-Write a function `sentiment_of_text(text)` that calculates the *sentiment score* of the text.
+In a file called `sentiment.py`, write a function `sentiment_of_text(text)` that calculates the *sentiment score* of the text.
 
     >>> sentiment_of_text("Pastel-colored 1980s day cruisers from Florida are ugly.")
     -1
@@ -22,7 +22,7 @@ When analyzing a text, this means that each positive word adds 1 to the total sc
 
 ## Strategy
 
-1. Download [`pos_words.txt`](pos_words.txt) and [`neg_words.txt`](neg_words.txt).
+1. Download [pos_words.txt](pos_words.txt) and [neg_words.txt](neg_words.txt).
 
 2. Use this code for loading the word lists:
 
@@ -31,15 +31,15 @@ When analyzing a text, this means that each positive word adds 1 to the total sc
            lines = content.read().splitlines()
            content.close()
            return lines
-       
+
        def load_positive_words():
            return load_words("pos_words.txt")
-       
+
        def load_negative_words():
            return load_words("neg_words.txt")
-       
-       pos_words = load_pos_words()
-       neg_words = load_neg_words()
+
+       pos_words = load_positive_words()
+       neg_words = load_negative_words()
 
    Now you have two lists containing the words.
 
@@ -50,7 +50,7 @@ When analyzing a text, this means that each positive word adds 1 to the total sc
 
 ## Testing
 
-Add the following code to test your functions. It adds *interpretation* to your program.
+First convince yourself that everything works as it should by trying out some sentences. You can add the following code to test your functions:
 
     total_score = sentiment_of_text("...")
     if total_score > 0:
@@ -60,3 +60,6 @@ Add the following code to test your functions. It adds *interpretation* to your 
     else:
         print("The text is not opinionated or just messy.")
 
+Now you're ready to test with checkpy:
+
+    checkpy sentiment

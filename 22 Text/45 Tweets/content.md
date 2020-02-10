@@ -2,7 +2,7 @@
 
 Write a program that reads in a selection of texts, calculates each text's sentiment, and summarizes the results in a pie chart.
 
-![A not so beautiful chart](figure_1.png)
+![A not so beautiful chart](sentiment.png)
 
 ## Background
 
@@ -14,8 +14,8 @@ Your program should comprise three parts:
 
 1. Load the file with tweet on each line. To do this, you need to use this code:
 
-       with open("tweets.txt") as tweet_file:
-   	       tweets = tweet_file.read().splitlines()
+        with open("trump.txt", encoding="utf8") as tweet_file:
+            tweets = tweet_file.read().splitlines()
 
    Your `tweets` variable will then contain a list of strings, each string being the text of a single tweet.
 
@@ -26,3 +26,5 @@ Your program should comprise three parts:
 ## Testing
 
 This program can't be tested automatically!
+
+Note that your results might differ a bit from the example chart shown above.

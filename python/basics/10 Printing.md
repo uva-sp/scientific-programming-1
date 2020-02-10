@@ -22,8 +22,8 @@ What's the result? Did you make any mistakes? Any errors? And did you see that t
 
 We can also print multiple times on the same line. By default `print` adds an **ENTER** each time you use it, so that the following `print` statement continues on a new line. But you can manually prevent that **ENTER** from being added:
 
-    print("The temperature is", end="")
-    print(8, end="")
+    print("The temperature is", end=" ")
+    print(8, end=" ")
     print("degrees Celsius")
 
 That way the entire message is printed on a single line. Try it for yourself!

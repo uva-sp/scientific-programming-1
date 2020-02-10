@@ -1,6 +1,6 @@
 # Reformatting text
 
-Implement a function `text_to_lines(text, max_length)` which neatly formats the given text into lines of length `max_length`. Words should not be cut off, but moved to the next line when necessary.
+Create a file called `reformatting.py` and implement a function `text_to_lines(text, max_length)` which neatly formats the given text into lines of length `max_length`. Words should not be cut off, but moved to the next line when necessary.
 
     >>> source_text = "ASDF is the sequence of letters that appear on the first four keys on the home row of a QWERTY or QWERTZ keyboard. They are often used as a sample or test case or as random, meaningless nonsense. It is also a common learning tool for keyboard classes, since all four keys are located on Home row." # from the wikipedia
     >>> print(source_text)
@@ -51,6 +51,9 @@ You may also add a newline to an existing string:
 Notice that this looks quite a bit like the transform strategy!
 
 
+## testing
+
+    checkpy reformatting
 
 
 [^1]: <https://www.heroku.com/art/python>

@@ -38,6 +38,12 @@ Now that you have installed both Anaconda and Visual Studio Code, we can see if 
 
 In Visual Studio Code you can open a terminal with the key combination **ctrl**+**\`**. That means pressing both **ctrl** and **\`** (this key is often found next to the 1 or the Z key on your keyboard) at the same time.
 
+Some keyboard shortcuts that might save you some time: 
+
+* Use  **ctrl**+**\`** to switch from editor to terminal and vice versa
+* If you type a file name in the terminal you can use **tab** for autocomplete 
+* Want to use a previous command? Use arrow keys (up and down) to navigate through previous commands
+
 ### Install `checkpy`
 
 To help you verify whether a program functions in compliance wit the specifications of an assignment, we have written a program of our own called **checkpy**. This program can be installed from the terminal using the following command (make sure to have Python and PiP installed):
