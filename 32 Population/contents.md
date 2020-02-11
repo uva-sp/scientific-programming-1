@@ -10,7 +10,7 @@ In the video below, meet [Iko Koevoets](http://www.uva.nl/over-de-uva/organisati
 
 #### Day 1: Animations in Python
 
-1. Learn how to make [animations](/resources/animations) in Python
+1. Learn how to make [animations](/python/animations) in Python
 
 2. <span class="badge badge-primary">Assignment</span> The [spiraling dot](/movement/dot)
 
