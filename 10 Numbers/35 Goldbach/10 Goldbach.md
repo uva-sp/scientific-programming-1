@@ -2,12 +2,12 @@
 
 Write a program that proves Goldbach's conjecture to be true for all even numbers up to and including 1000.
 
-	# python goldbach.py
-	16 = ...
-	18 = 5 + 13 
-	20 = 3 + 17 
-	22 = 5 + 17
-	24 = ...
+    # python goldbach.py
+    16 = ...
+    18 = 5 + 13
+    20 = 3 + 17
+    22 = 5 + 17
+    24 = ...
 
 ## Background
 
@@ -29,22 +29,19 @@ More important is of course if or when you find a number that *isn't* in complia
 
 * Use a list of primes as the base for this program. Think for yourself up to what number the list should go to provide all even numbers through 1000 of divisors.
 
-
 * For this assignment you're allowed to use the following Python construction, that checks whether an element is or isn't found in a list. The following code will print to the screen whether 7 is indeed a prime number.
 
-  ```
-  primes = [2, 3, 5, 7, 11]
-  x = 7
-  if x in primes:
-  	print(f"Yes, the number {x} is found in my list of primes.")
-  ```
+      primes = [2, 3, 5, 7, 11]
+      x = 7
+      if x in primes:
+        print(f"Yes, the number {x} is found in my list of primes.")
 
-  And if you'd want to check for all numbers from 1 through 40 whether they're found in the list, you use:
+  And if you'd want to check for all numbers from 1 through 12 whether they're found in the list, you use:
 
-  	primes = [2, 3, 5, 7, 11]
-  	for x in range(1, 41):
-  	    if x in primes:
-  	        print(f"Yes, the number {x} is found in my list of primes.")
+      primes = [2, 3, 5, 7, 11]
+      for x in range(1, 12):
+          if x in primes:
+              print(f"Yes, the number {x} is found in my list of primes.")
 
   Clearly we don't hand you this hint without a reason. This assignment has a more 'elegant' solution in which this construction is used. You can also solve it in a less elegant way (brute-force) of course.
 
@@ -53,5 +50,5 @@ More important is of course if or when you find a number that *isn't* in complia
 Once again carefully read the specification at the top of the assignment and make sure your program works exactly as specified.
 
 Now you're ready to test:
-
-	checkpy goldbach
+	
+    checkpy goldbach

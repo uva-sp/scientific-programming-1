@@ -11,7 +11,7 @@ Files:
 
 Download the files, open them and read the headers (at the top of the file) on how the data has been formatted. We can see the maximum (minimum) temperature at January 1st 1901 was -3.1 (-6.8) degrees Celsius.
 
-> Note! The data files also contain all sorts of clarification. You're supposed to leave that in the file. Your Python program should be implemented in such a way that it skips those lines when it processes the file.
+> Note! The data files also contain all sorts of clarification. You're supposed to leave that in the file (don't change the contents of the file). Your Python program should be implemented in such a way that it skips those lines when it processes the file. Also, do not change the file names. 
 
 Create a program **temperature.py** that parses the file line by line and answers the following questions.
 
@@ -33,7 +33,7 @@ What is the longest period of uninterrupted days that had freezing temperatures 
 
 ### Assignment 3: Summer days and tropical days
 
-A day is a summer day when the maximum temperature is higher than 25 degrees Celsius. On a tropical day that maximum temperature would even reach 30 degrees. Make a graph where both the number of summer days and tropical days is displayed for each year. 
+A day is a summer day when the maximum temperature is 25 degrees Celsius or higher. On a tropical day that maximum temperature would even reach 30 degrees. Make a graph where both the number of summer days and tropical days is displayed for each year.  
 
 ### Assignment 4: First heat wave
 
@@ -44,3 +44,11 @@ In the Netherlands we speak of a heat wave when the maximum temperature has been
 Make sure the code of all your assignments is written in one or more functions. Do not use global variables (ask an assistant if this is not clear)!
 
 You can see above that there are a couple of statements that need to be `print`ed and one graph has to be created. Make sure the requested information is `print`ed on separate lines, in the correct order.
+
+## Testing
+
+Now you're ready to test with checkpy:
+
+    checkpy temperature
+
+

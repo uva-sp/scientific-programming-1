@@ -2,13 +2,9 @@
 
 One interesting application of Python is to use it for analyzing texts written by humans. Written texts are subject to various implicit and explicit rules, such as spelling and grammar. Python can be used to make sense of texts at various levels. For example, we may calculate simple statistics about the length of a document or its parts. Or we may dig a little deeper by analyzing word use, or finding misspelled words or grammar problems. And using big data techniques, we might make an educated guess about the meaning of a piece of writing, or even the attitude that a text represents.
 
-
-(Note: this case study does not have checkpy checks. However, it's quite easy to see if your code works!)
-
-
 ![embed](https://player.vimeo.com/video/233508920)
 
-##### Day 1: Text statistics
+## Day 1: Text statistics
 
 - Learn how to write [functions](/text/functions) in Python.
 
@@ -16,13 +12,13 @@ One interesting application of Python is to use it for analyzing texts written b
 
 - <span class="badge badge-primary">Assignment</span> Calculate [basic statistics](/text/statistics) about a text.
 
-##### Day 2: Text cleanup
+## Day 2: Text cleanup
 
 - <span class="badge badge-primary">Assignment</span> Analyze the [content of texts](/text/words) word by word.
 
 - <span class="badge badge-primary">Assignment</span> [Reformat](/text/reformatting) a text, respecting word boundaries.
 
-##### Day 3: Sentiment analysis
+## Day 3: Sentiment analysis
 
 - Learn how to read text from [files](/text/files) in Python.
 
@@ -30,7 +26,7 @@ One interesting application of Python is to use it for analyzing texts written b
 
 - <span class="badge badge-primary">Assignment</span> Present an overview of the sentiment contained in a collection of [tweets](/text/tweets).
 
-##### Submitting
+## Submitting
 
 When you're ready to submit, head to [the submit page for this module](/text/submit).
 

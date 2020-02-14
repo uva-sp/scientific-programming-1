@@ -12,14 +12,13 @@ In English, read a bit more about [conditionals](http://greenteapress.com/thinkp
 
 An `if`-statement in Python is structured as follows:
 
-```
-balance = 100
-expense = 75
-if balance - expense > 0:
-    balance = balance - expense
-    print("Transaction complete.")
-print(f"Your balance is {balance}.")
-```
+    balance = 100
+    expense = 75
+    if balance - expense > 0:
+        balance = balance - expense
+        print("Transaction complete.")
+    print(f"Your balance is {balance}.")
+
 
 A **condition** ultimately only has two possible outcomes. In Python these are `True` and `False` (these are called **boolean** values, after [George Boole](https://en.wikipedia.org/wiki/Boolean_algebra#Values)). In the code shown above the this boolean is the result of the expression `balance - expense > 0`. In this case the comparison operator `>` ('greater than') is used. This operator compares two parts, the first part is the result of `balance - expense` and the second part is `0`T. After which the result is evaluated into a boolean. Depending on the result, a `True` or `False` , the code within the if-statement is executed (the result was `True`) or skipped entirely (the result was `False`).
 

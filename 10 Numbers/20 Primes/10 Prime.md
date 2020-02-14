@@ -2,8 +2,8 @@
 
 Implement a program that generates the $$n$$-th prime number, where $$n$$ is a user provided value.
 
-	Which prime number are you looking for? 1000
-	7919
+    Which prime number are you looking for? 1000
+    7919
 
 ## Background
 
@@ -11,9 +11,9 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 
 ## Specification
 
-* Ask the user to provide the rank (how many-th) of the prime number that they want. This has to be a whole, positive number.
+* Ask the user to provide the rank (how many-th) of the prime number that they want. This has to be a whole, positive number. 
 
-* If a user provides a value that is not valid, ask the user to try again. Keep prompting the user for a value until they do provide a valid number. Since it is not known how often you'll have to repeat the question, a `while`-loop seems perfect!
+* If a user provides a value that is not valid, ask the user to try again (you may assume the user gives a whole number as input, not a decimal or word). Keep prompting the user for a value until they do provide a valid number. Since it is not known how often you'll have to repeat the question, a `while`-loop seems perfect!
 
 * Once the rank of the prime is established, have your program calculate the correct prime and report it back to the user.
 
@@ -41,9 +41,15 @@ If the user enters the number 37, at the end of the program the following statem
 
 In the case of a non prime number, such as 36, it should print:
 
-	The number 36 is not a prime number
+    The number 36 is not a prime number
 
 At the start, keep it simple. Use a `for`-loop and `%` (modulo) to determine how many numbers are a divisor of `number`. If you keep track of this in the loop (count!), then by the end of the loop you can determine if a number is prime or not. Ultimately print the conclusion, like in the example above.
+
+Tip: You can use the module operator to test for divisibility. For example the program below will test if 9 is divisible by 3 (which, of course, is the case):
+
+    x = 9
+    if x % 3 == 0:
+        print(f'{x} is divisible by 3')
 
 ## Step 2: check an entire list
 
@@ -73,7 +79,7 @@ Once again carefully read the specification at the top of the assignment and mak
 
 Then you're all set to test:
 
-	checkpy prime
+  checkpy prime
 
 ## Step 5: small optimizations
 
@@ -83,7 +89,6 @@ We started out as simple as possible, to get to a *correct* program as soon as p
 
 * If you find a divisor (that is not 1 or the number itself), there is no reason to look for any other divisors, it is already certain that number is not a prime.
 
-* If you want to determine whether 137 is a prime, which candidate-divisors would you inspect before you're sure it's a prime number? Check this yourself with pen and paper. Dividing by 2 and all uneven numbers up until the number is a bit too much, wouldn't you say? A mathematician for example would only divide by 2, 3, 5, 7, 11. Think about why (this should result in thorough adjustments of your code).
 
 ## Hints
 
@@ -93,4 +98,4 @@ We started out as simple as possible, to get to a *correct* program as soon as p
 
 To be sure test your program again using `checkpy`:
 
-	checkpy prime
+    checkpy prime
