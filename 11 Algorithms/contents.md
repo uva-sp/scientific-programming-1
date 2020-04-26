@@ -16,6 +16,8 @@ But first, check out the short movie below. Egge van der Poel is a data scientis
 
 1. Learn more about [algorithms](/algorithms/algorithms)
 
+2. Learn about [loops](/algorithms/loops)
+
 2. <span class="badge badge-primary">Assignment</span> Build a small piece of a Mario [pyramid](/algorithms/pyramid)
 
 ##### Day 3: A serious algorithm

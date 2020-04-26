@@ -16,6 +16,8 @@ But why programming? Check out this video. [Mirjam Leunissen](http://www.dutchda
 
 1. Learn more about [algorithms](/numbers/algorithms)
 
+2. Learn about [loops](/numbers/loops)
+
 3. <span class="badge badge-primary">Assignment</span> Look for [prime numbers](/numbers/primes)
 
 ##### Day 3: Number theory
