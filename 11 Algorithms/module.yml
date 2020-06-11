@@ -1,0 +1,18 @@
+Introduction: /algorithms
+"Day 1: Getting started":
+    Basic elements of Python: /algorithms/basics
+    Implement Water: /algorithms/water
+"Day 2: A first algorithm":
+    Learn about algorithms: /algorithms/algorithms
+    Learn about loops: /algorithms/loops
+    Implement Pyramid: /algorithms/pyramid
+"Day 3: A serious algorithm":
+    Learn to write good code: /algorithms/style-guide
+    Implement Greedy: /algorithms/greedy
+"Day 4: Plotting graphs":
+    Learn about lists: /algorithms/lists
+    Learn about modules: /algorithms/modules
+    Learn about plotting: /algorithms/plotting
+    Implement Plot: /algorithms/plot
+Submit:
+    Submit module: /algorithms/submit
